@@ -1,0 +1,28 @@
+{
+  "name": "jbSelect",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fortunato/jbSelect",
+  "authors": [
+    "Fortunato Geelhoed <f.geelhoed@gmail.com>"
+  ],
+  "description": "Accessible custom <select> control",
+  "main": "jb-select.js",
+  "keywords": [
+    "jQuery",
+    "select",
+    "accessiblity",
+    "aria"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}
